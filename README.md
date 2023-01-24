@@ -1,4 +1,4 @@
-![Header](https://github.com/Ishukov/Ishukov/blob/4ea29fb3df72e9099c163e6b6cc8a2593e3ac402/assets/SERGEY%20ISHUKOV_free-file.png)
+![LOGO](https://github.com/Ishukov/Ishukov/blob/4ea29fb3df72e9099c163e6b6cc8a2593e3ac402/assets/SERGEY%20ISHUKOV_free-file.png)
 
 # About me
 
