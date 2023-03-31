@@ -20,4 +20,7 @@
 * [Test-Case](https://docs.google.com/spreadsheets/d/1RSTE0OXtJotAHvPYgh81DLHY5vSFDL9kev3ihsuESFQ/edit?usp=sharing)
     Тест-кейсы востановления пароля на сайте henderson.ru
 
+[Bug-Reports](https://docs.google.com/spreadsheets/d/1J3zAqdryHT8Wwn_6GO43VokoqVbgP2NBtGIl3RO5BZA/edit?usp=drivesdk) 
+    Баг-репорты телеграмм бота домашней библиотеки
+
 #### Follow me
